@@ -1,8 +1,8 @@
-<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+<scheme name="Lander DArk" version="142" parent_scheme="Darcula">
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
